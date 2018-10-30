@@ -1,3 +1,6 @@
+# Tohfa Akib
+# tnishan7@gmail.com
+
 from google import google
 import re
 num_page = 50
